@@ -64,7 +64,7 @@ Copy code
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/snehithakovuri/Billing-Application
+
 cd Billing-Application
 2. Backend Setup
 Requirements:
